@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on rapid transport mobile app<br>🌱 I’m currently learning React Native,Nextjs<br>💬 Ask me about react, Nextjs<br>📫 How to reach me lmlewisodero@gmail.com
+ 🔭 I’m currently working on rapid transport mobile app<br>🌱 I’m currently learning React Native,Nextjs<br>💬 Ask me about react,Nextjs<br>📫 How to reach me lmlewisodero@gmail.com
 
 
 ## 🌐 Socials:
